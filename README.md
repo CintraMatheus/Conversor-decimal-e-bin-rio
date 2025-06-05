@@ -48,4 +48,4 @@ A interface é simples, composta por:
 
 ## Autor
 
-Feito por **Matheus Cintra**:.
+Feito por **Matheus Cintra**: https://github.com/CintraMatheus.

@@ -2,10 +2,6 @@
 
 Este é um simples aplicativo gráfico feito com **Tkinter**, que permite converter números entre os sistemas **decimal** e **binário** de forma rápida e intuitiva.
 
-## 📸 Captura de Tela
-
-![screenshot](#) <!-- Substitua '#' pelo caminho de uma imagem, se desejar -->
-
 ## Funcionalidades
 
 - ✅ Converte números decimais para binários.
